@@ -1,0 +1,33 @@
+.complete {
+  width: 20px;
+  height: 20px;
+  color: green;
+  margin: 2px;
+  background: green;
+  display: inline-block;
+  *display: inline;
+}
+
+.fail {
+    width: 20px;
+    height: 20px;
+    color: red;
+    margin: 2px;
+    background: red;
+    display: inline-block;
+    *display: inline;
+}
+
+.page-title {
+  color: steelblue;
+}
+
+.goal-title {
+  color: orangered;
+}
+
+
+.myContainer {
+  margin-right 2%;
+  margin-left  2%;
+}
